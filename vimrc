@@ -1,3 +1,6 @@
+" my collection of keystrokes:
+" http://blog.raymond.burkholder.net/index.php?/archives/678-VIM-Key-Strokes.html
+
 " http://vim.wikia.com/wiki/Keep_your_cursor_centered_vertically_on_the_screen
 set scrolloff=5
 
