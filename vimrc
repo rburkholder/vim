@@ -13,3 +13,7 @@ set visualbell
 set t_vb=
 
 set ff=unix
+
+if !has("gui_running")
+  set mouse=
+endif
